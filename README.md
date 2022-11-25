@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ## Usage
 '''python
-Pro'''jeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 '''
 Linux için:
 
